@@ -1,0 +1,1 @@
+select emp_name , sal from employee where sal between 2000 AND 3000 OR gender = 2; 
