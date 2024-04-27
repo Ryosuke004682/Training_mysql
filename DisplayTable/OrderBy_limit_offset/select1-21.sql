@@ -1,0 +1,1 @@
+select emp_name , birthday , sal , comm , (sal + comm) as 月収 from employee order by 5 desc;

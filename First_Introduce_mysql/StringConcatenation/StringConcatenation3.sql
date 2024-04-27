@@ -1,0 +1,1 @@
+select concat('担当者 ' , emp_name , '誕生日は ' , birthday , 'です。') as 誕生日 from employee;
