@@ -1,0 +1,1 @@
+select prod_name , cost , discount , format(cost * coalesce(discount , 1) , 2) as 割引価格 from product;

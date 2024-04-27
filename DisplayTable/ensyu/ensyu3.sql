@@ -1,0 +1,1 @@
+select prod_name , cost , discount , (cost * discount) as 割引価格 from product;
