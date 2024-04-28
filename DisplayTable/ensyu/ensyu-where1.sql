@@ -1,1 +1,1 @@
---TODO : 明日は演習問題から
+select * from product where cost >= 20000;

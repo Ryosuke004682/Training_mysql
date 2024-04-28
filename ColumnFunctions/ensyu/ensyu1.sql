@@ -1,0 +1,1 @@
+select sum(cost) , avg(cost) , min(cost) , max(cost) from product;
