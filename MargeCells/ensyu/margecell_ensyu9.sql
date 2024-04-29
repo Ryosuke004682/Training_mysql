@@ -1,3 +1,4 @@
+--unionの応用
 select * , cost * coalesce(discount , 1) * 0.95 
 from product where prod_id % 2 = 0
 union
